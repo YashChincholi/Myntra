@@ -1,19 +1,20 @@
-html, body{
-    height: 100%;
-    width: 100%;
+html,
+body {
+  height: 100%;
+  width: 100%;
 }
 
-.left img{
-    width: 32px;
-    height: 23px;
+.left img {
+  width: 32px;
+  height: 23px;
 }
 
-.container{
-    max-width: 80vw;
-     margin: auto; 
+.container {
+  max-width: 80vw;
+  margin: auto;
 }
 
-nav ul li{
-    list-style: none;
-    padding: 0 12px;
+nav ul li {
+  list-style: none;
+  padding: 0 12px;
 }
